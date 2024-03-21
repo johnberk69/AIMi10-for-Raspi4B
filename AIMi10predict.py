@@ -1,3 +1,6 @@
+# 12/18/2023 JohnB - Josh Berkheimer LLC
+# 12/22/2023 working code - continuously loops through capturing images from USB camera and inferencing through AIMi10
+
 # USE CASE
 # the goal was to develop a script that could be executed at the command line, accept an input [image] file, and pass
 # it to a local Azure Custom Vision model [Object Detector] that had been exported as an ONNX model.  That local model had
